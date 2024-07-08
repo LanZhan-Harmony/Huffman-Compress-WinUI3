@@ -1,0 +1,10 @@
+﻿{
+    "profiles": {
+      "哈夫曼压缩 (Package)": {
+        "commandName": "MsixPackage"
+      },
+      "哈夫曼压缩 (Unpackaged)": {
+        "commandName": "Project"
+      }
+    }
+}
